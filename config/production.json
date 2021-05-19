@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://charlie4142:tpdl3380@node-express-jwt-auth.zzprr.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "df6be5fd21a449a0d325",
+  "githubSecret": "ef86b1e300b000cf047e70930767d2e1c79069b0"
+}
